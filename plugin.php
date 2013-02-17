@@ -147,7 +147,7 @@ class Genesis_Simple_Edits {
 					<tr class="post-shortcodes" style="display: none;">
 						<th scope="row"><p><span class="description"><?php _e('Shortcode Reference'); ?></span></p></th>
 						<td>
-							<p><span class="description"><?php _e('NOTE: For a more comprehensive shortcode usage guide, <a href="http://dev.studiopress.com/shortcode-reference" target="_blank">see this page</a>.') ?>
+							<p><span class="description"><?php _e('NOTE: For a more comprehensive shortcode usage guide, <a href="http://my.studiopress.com/docs/shortcode-reference/" target="_blank">see this page</a>.') ?>
 							<p>
 								<ul>
 									<li>[post_date] - <span class="description"><?php _e('Date the post was published', ''); ?></span></li>
@@ -194,7 +194,7 @@ class Genesis_Simple_Edits {
 					<tr class="footer-shortcodes" style="display: none;">
 						<th scope="row"><p><span class="description"><?php _e('Shortcode Reference'); ?></span></p></th>
 						<td>
-							<p><span class="description"><?php _e('NOTE: For a more comprehensive shortcode usage guide, <a href="http://dev.studiopress.com/shortcode-reference" target="_blank">see this page</a>.') ?>
+							<p><span class="description"><?php _e('NOTE: For a more comprehensive shortcode usage guide, <a href="http://my.studiopress.com/docs/shortcode-reference/" target="_blank">see this page</a>.') ?>
 							<p>
 								<ul>
 									<li>[footer_backtotop] - <span class="description"><?php _e('The "Back to Top" Link', ''); ?></span></li>
