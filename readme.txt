@@ -2,7 +2,7 @@
 Contributors: nathanrice, studiopress, wpmuguru
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5553118
 Tags: shortcodes, genesis, genesiswp, studiopress
-Requires at least: 3.2
+Requires at least: 3.4
 Tested up to: 3.5
 Stable tag: 1.7.1
 
