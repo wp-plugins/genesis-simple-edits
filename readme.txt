@@ -25,7 +25,7 @@ This plugin creates a new Genesis settings page that allows you to modify the po
 
 = What are Shortcodes? =
 
-Check out the [Shortcodes API](http://codex.wordpress.org/Shortcode_API) for an explanation, and our [Shortcode Reference](http://dev.studiopress.com/shortcode-reference) for a list of available Genesis-specific shortcodes.
+Check out the [Shortcodes API](http://codex.wordpress.org/Shortcode_API) for an explanation, and our [Shortcode Reference](http://my.studiopress.com/docs/shortcode-reference) for a list of available Genesis-specific shortcodes.
 
 = My PHP isn't working =
 
