@@ -44,3 +44,7 @@ You must have Genesis (1.3+) or a Genesis child theme installed and activated on
 * Increased installation requirement to Genesis 1.7.1
 * Removed PHP4 constructor
 * Whitespace, standards, and documentation
+
+= 2.1.0 =
+* Better defaults
+* Genesis 2.0+ considerations
