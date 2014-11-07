@@ -6,7 +6,7 @@
 	Author: Nathan Rice
 	Author URI: http://www.nathanrice.net/
 
-	Version: 2.1.0
+	Version: 2.1.1
 
 	License: GNU General Public License v2.0 (or later)
 	License URI: http://www.opensource.org/licenses/gpl-license.php
@@ -99,7 +99,7 @@ class Genesis_Simple_Edits {
 			'footer_backtotop_text' => '[footer_backtotop]',
 			'footer_creds_text'     => sprintf( '[footer_copyright before="%s "] &middot; [footer_childtheme_link before="" after=" %s"] [footer_genesis_link url="http://www.studiopress.com/" before=""] &middot; [footer_wordpress_link] &middot; [footer_loginout]', __( 'Copyright', 'genesis-simple-edits' ), __( 'On', 'genesis-simple-edits' ) ),
 			'footer_output_on'      => 0,
-			'footer_output'         => genesis_html5() ? $footer_html5 : $footer_xhtml,
+			'footer_output'         => current_theme_supports( 'html5' ) ? $footer_html5 : $footer_xhtml,
 		);
 		
 	}
